@@ -17,4 +17,4 @@ Here, I will teach you everything you need to know!
 
 Thank you for reading this!
 
-Live long, and God bless!
+Live long, and **God bless!**
