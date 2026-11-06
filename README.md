@@ -1,4 +1,4 @@
-# OIRAM
+# OIRAM 🐔
 
 Welcome to OIRAM!
 
