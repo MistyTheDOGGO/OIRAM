@@ -11,7 +11,7 @@ GAMEPLAY!:
 
 
 Features!:
-1. OST: 4 great songs to listen to with stuff like: Cluckin' Through the Grass, Too Hot to Cluck, Burburs Below Zero, And A Burbur Beginning! There is also 3 jingles THE FINAL CLUCK: Game Victory, Cluck Around and Find Out: Death, And Flagged for Cluckcess: Level Complete!
+1. OST: 4 great songs to listen to with stuff like: Cluckin' Through the Grass, Too Hot to Cluck, Burburs Below Zero, And A Burbur Beginning! There are also 3 jingles THE FINAL CLUCK: Game Victory, Cluck Around and Find Out: Death, And Flagged for Cluckcess: Level Complete!
 2. 12 epic skins to choose from!
 3. 3 worlds to explore
 
