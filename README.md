@@ -1,2 +1,15 @@
 # OIRAM
-OIRAM: The Hamburbur Adventure 🍔 is a 2D platformer made with Python and Pygame. Explore different worlds, collect coins and Burburs, unlock character skins, defeat enemies, and overcome challenging obstacles. With fun gameplay and plenty to discover, OIRAM is an adventure packed with hamburbur-sized excitement. Powered by Burburs. Made with love!
+
+Welcome to OIRAM: The Hamburbur Adventure! 🐔🍔
+
+OIRAM is a little platformer game I made using Python and Pygame!
+
+Play as a chicken, jump over obstacles, stomp enemies, and collect Burburs! You can also collect coins to buy different chicken skins.
+
+There are 3 worlds to beat, each with different challenges!
+
+This game was inspired by Mario, which is actually why it's called OIRAM (Mario backwards lol).
+
+Hope you enjoy the game!
+
+Live well, **and God bless!**
